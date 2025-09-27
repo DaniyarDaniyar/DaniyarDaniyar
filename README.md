@@ -8,10 +8,10 @@
 <hr>
 
 <h2 align="center" style="text-align:center;">About Me:</h2>
-## Hello! 👋 My name is Daniyar, and I’m a Computer Science student at **KBTU**.
+Hello! 👋 My name is Daniyar, and I’m a Computer Science student at **KBTU**.
 
-💡 Hobbies: Gaming🎮 • Watching anime • Playing the guitar🎶🎵  
-💻 Skills: Python • C++ • Unity • PostrgreSQL • PowerBI • RenPy • Html/Css • JS
+💡 Hobbies: Gaming🎮 • Watching anime • Playing the guitar🎶🎵 <br>
+💻 Skills: Python • C++ • Unity • PostrgreSQL • PowerBI • RenPy • Html/Css • JS <br>
 📖 Learnings: Django • Angular • Go
 
 <hr>

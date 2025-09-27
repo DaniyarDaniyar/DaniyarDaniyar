@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Daniyar_Kylyshbekov/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/>
+  <img align="center" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" width="110"/>
 </a>
 </div>
 

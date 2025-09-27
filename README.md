@@ -1,4 +1,4 @@
-<h2 align="center" style="text-align:center;">Welcome:</h2>
+<h2 align="center" style="text-align:center;">Welcome</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
@@ -8,16 +8,15 @@
 <hr>
 
 <h2 align="center" style="text-align:center;">About Me:</h2>
-# Hello! 👋
-My name is Daniyar, and I’m a Computer Science student at **KBTU**.
+## Hello! 👋 My name is Daniyar, and I’m a Computer Science student at **KBTU**.
 
 💡 Hobbies: Gaming🎮 • Watching anime • Playing the guitar🎶🎵  
 💻 Skills: Python • C++ • Unity • PostrgreSQL • PowerBI • RenPy • Html/Css • JS
 📖 Learnings: Django • Angular • Go
 
 <hr>
-## 📊 GitHub Stats  
-
+ 
+<h2 align="center" style="text-align:center;">GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaniyarDaniyar&show_icons=true&theme=radical" width="50%">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DaniyarDaniyar&theme=radical" alt="GitHub Streak" width="50%"/></a>
@@ -44,6 +43,6 @@ My name is Daniyar, and I’m a Computer Science student at **KBTU**.
 
 <p align="center">
     <h2 align="center">Bye Bye</h2>
-    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/linda-golden-time-linda.gif" width="900" alt="Welcome gif page"/>
+    <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/bye.gif" width="900" alt="Bye page"/>
 </p>
 

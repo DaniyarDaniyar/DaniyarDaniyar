@@ -1,49 +1,73 @@
-<h1 align="center" style="text-align:center;">Welcome</h1>
+<!-- Header -->
+<h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
-    <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/yLYe8sf.gif" width="900" alt="Welcome gif page"/>
+    <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/yLYe8sf.gif" width="900" alt="Welcome GIF"/>
   </a>
 </p>
-<hr>
 
-<h2 align="center" style="text-align:center;">About Me:</h2>
-Hello! 👋 My name is Daniyar, and I’m a Computer Science student at **KBTU**.
+---
 
-💡 Hobbies: Gaming🎮 • Watching anime • Playing the guitar🎶🎵 <br>
-💻 Skills: Python • C++ • Unity • PostrgreSQL • PowerBI • RenPy • Html/Css • JS <br>
-📖 Learnings: Django • Angular • Go
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Daniyar+👨‍💻;Computer+Science+Student+@+KBTU;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+</p>
 
-<hr>
- 
-<h2 align="center" style="text-align:center;">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniyarDaniyar&show_icons=true&theme=radical" width="50%">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DaniyarDaniyar&theme=radical" alt="GitHub Streak" width="50%"/></a>
-</div>
-<hr>
+---
 
-<h2 align="center" style="text-align:center;">Follow Me On:</h2>
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
+## 🌟 About Me
 
-<a href="https://t.me/Daniyar_Kylyshbekov" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9/">
-</a>
+<p align="center">
+  Hello! 👋 My name is <b>Daniyar</b>, and I’m a Computer Science student at <b>KBTU</b>.<br><br>
+  💡 <b>Hobbies:</b> Gaming 🎮 • Anime 🎬 • Guitar 🎵 <br>
+  💻 <b>Skills:</b> Python • C++ • Unity • PostgreSQL • PowerBI • Ren'Py • HTML/CSS • JavaScript <br>
+  📚 <b>Currently learning:</b> Django • Angular • Go
+</p>
 
-<a href="https://www.instagram.com/daniyar_kylyshbekov/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=B4068E"/>
-</a>
+---
 
-<a href="https://leetcode.com/u/Daniyar_Kylyshbekov/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" width="110"/>
-</a>
-</div>
+## 🧠 Tech Stack
 
-<hr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,unity,postgresql,django,angular,html,css,js,git,vscode" />
+</p>
 
-<div align="center">
-  <h2>Bye Bye</h2>
-  <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/bye.gif" width="500" alt="Bye page"/>
-</div>
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniyarDaniyar&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DaniyarDaniyar&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaniyarDaniyar&theme=radical&no-frame=true&row=1" width="80%"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/Daniyar_Kylyshbekov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/daniyar_kylyshbekov/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Daniyar_Kylyshbekov/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👋 Bye Bye
+
+<p align="center">
+  <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/bye.gif" width="400" alt="Bye Bye GIF"/>
+  <br><br>
+  <i>Thanks for visiting my profile — have an awesome day! 🌟</i>
+</p>

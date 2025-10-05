@@ -41,8 +41,9 @@ Hello! 👋 My name is Daniyar, and I’m a Computer Science student at **KBTU**
 
 <hr>
 
-<p align="center">
-    <h2 align="center">Bye Bye</h2>
-    <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/bye.gif" width="900" alt="Bye page"/>
-</p>
+<div align="center">
+  <h2>Bye Bye</h2>
+  <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/bye.gif" width="500" alt="Bye page"/>
+</div>
+
 

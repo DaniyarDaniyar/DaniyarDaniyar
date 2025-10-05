@@ -2,7 +2,7 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
+  <a href="https://www.youtube.com/">
     <img src="https://github.com/DaniyarDaniyar/DaniyarDaniyar/blob/main/assets/yLYe8sf.gif" width="900" alt="Welcome GIF"/>
   </a>
 </p>
